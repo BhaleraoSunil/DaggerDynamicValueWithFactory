@@ -1,6 +1,7 @@
 package com.example.daggerdynamicvaluewithfactory
 import android.annotation.SuppressLint
 import android.util.Log
+import com.example.daggerdynamicvaluewithfactory.Utils.Companion.TAG
 import javax.inject.Inject
 
 interface NotificationService{
